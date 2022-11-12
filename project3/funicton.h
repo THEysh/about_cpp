@@ -20,13 +20,13 @@ public:
     void setinf(double l,double w,double h);
     void setname(std::string str);
     void setyear(int y);
-    std::string getname();
-    int getyear();
 };
 
 class SmallBox: public Box {// SmallBox 是派生类
 public:
     double getmin_length();
+    std::string getname();
+    int getyear();
 };
 
 #endif //PROJECT3_FUNICTON_H
