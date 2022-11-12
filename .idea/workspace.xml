@@ -14,26 +14,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/funciton.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/project2/funciton.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
+      <change afterPath="$PROJECT_DIR$/project3/.idea/project3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/funicton.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project3/funicton.h" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project2/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.cmake/api/v1/reply/cmakeFiles-v1-1820fd228d7f026c29d9.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.cmake/api/v1/reply/codemodel-v2-671757a7ffb5686c39e8.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.cmake/api/v1/reply/index-2022-11-12T09-36-02-0244.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.cmake/api/v1/reply/target-project2-Debug-ed455b53082bc6b8180b.json" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.ninja_deps" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/.ninja_deps" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/.ninja_log" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/.ninja_log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/CMakeFiles/clion-log.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/CMakeFiles/clion-log.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/CMakeFiles/project2.dir/main.cpp.obj" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/CMakeFiles/project2.dir/main.cpp.obj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/build.ninja" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/build.ninja" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/cmake-build-debug/project2.exe" beforeDir="false" afterPath="$PROJECT_DIR$/project2/cmake-build-debug/project2.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project2/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project2/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +49,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "RunOnceActivity.cidr.known.project.marker": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
@@ -87,11 +73,23 @@
       <updated>1668245888928</updated>
       <workItem from="1668245890283" duration="104000" />
       <workItem from="1668246002861" duration="344000" />
-      <workItem from="1668246361139" duration="635000" />
+      <workItem from="1668246361139" duration="2686000" />
     </task>
+    <task id="LOCAL-00001" summary="更新">
+      <created>1668265234820</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668265234820</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="更新" />
+    <option name="LAST_COMMIT_MESSAGE" value="更新" />
   </component>
 </project>
