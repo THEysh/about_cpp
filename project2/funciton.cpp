@@ -99,6 +99,12 @@ double getAverage(const int *arr, int size){
     return avg;
 }
 
+int* funnums_return(){
+    int nums[5] = {1,2,3,5,6};
+    int *p;
+    p = nums;
+    return p;
+}
 
 tuple<int *, int, bool> return_Random( ){
     //C++ 不允许返回一个完整的数组作为函数的参数。
@@ -170,7 +176,7 @@ int* funppointer(){
     cout << "Value available at **pptr :" << **pptr << endl;
     cout << "Value available at &k :" << &k << endl;
     cout << "Value available at k :" << k << endl;
-    return *pptr;
+    return ptr;
 }
 
 void about_time(){

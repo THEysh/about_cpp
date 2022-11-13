@@ -10,6 +10,7 @@ void funnums2();
 void funpointer();
 void funpointer_nums();
 double getAverage(const int *arr, int size);
+int* funnums_return();
 std::tuple<int *, int, bool> return_Random( );
 void fun_str();
 int * funppointer();

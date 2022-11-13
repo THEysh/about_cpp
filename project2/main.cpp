@@ -16,11 +16,15 @@ int main() {
     avg = getAverage(balance, sizeof(balance)/sizeof(int));
     cout<<"arg="<<avg<<endl;
 
+    int *rep;
+    rep = funnums_return();
+    cout<<*(rep+3)<<endl;
     //可以用元组的方式，返回多个值
     tuple<int *, int, bool> ans =  return_Random(); //定义ans
-    int* nums_p;int p1;bool p2; //定义
+    int* nums_p; int p1; bool p2; //定义
     tie(nums_p, p1, p2) = ans;
     cout<<"nums_p="<<nums_p<<" p1="<<p1<<" p2="<<p2<<endl;
+    cout<<"sizeof(nums_p)"<<sizeof(nums_p)<<endl;
     for(int i=0;i<p1;i++){
         cout<<"*nums_p+"<<i<<"="<<*(nums_p+i)<<endl;
     }
@@ -38,6 +42,7 @@ int main() {
     time_t_str_time2 = StringToDatetime(str_time2); // 字符串转时间
     cout<< "计算之间间隔的天数为:" <<difftime(time_t_str_time2,time_t_str_time1)/(60*60*24)<<endl;
 
-    funinput(); //用cin输入
+
+    //funinput(); //用cin输入
     return 0;
 }
