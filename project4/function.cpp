@@ -42,10 +42,12 @@ double Box::getHeight() {
 
 // 重载 + 运算符，用于把两个 Box 对象相加
 Box Box::operator+(const Box &b) {
+
     Box box;
     box.length = this->length + b.length;
     box.breadth = this->breadth + b.breadth;
     box.height = this->height + b.height;
+
     return box;
 }
 

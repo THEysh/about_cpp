@@ -4,7 +4,8 @@
 const double * f1(const double ar[], int n);
 const double * f2(const double [], int);
 const double * f3(const double *, int);
-
+void testpf_fun(int number,auto pf); // 函数指针传入函数
+using namespace std;
 int main()
 {
     // 关键看auto的使用
@@ -20,7 +21,6 @@ int main()
     cout << " Address  Value\n";
     cout <<  (*p1)(av,3) << ": " << *(*p1)(av,3) << endl;
     cout << p2(av,3) << ": " << *p2(av,3) << endl;
-
 
     const double *(*pa[3])(const double *, int) = {f1,f2,f3};
     auto pb = pa;
@@ -44,6 +44,8 @@ int main()
     cout << pdb << ": " << *pdb << endl;
     cout << (*(*pd)[2])(av,3) << ": " << *(*(*pd)[2])(av,3) << endl;
 
+    testpf_fun(30,p1);
+    testpf_fun(30,p2);
     return 0;
 }
 
@@ -60,4 +62,9 @@ const double * f2(const double ar[], int n)
 const double * f3(const double ar[], int n)
 {
     return ar+2;
+}
+void testpf_fun(int number,auto pf){
+    double av[3] = {1112.3, 1542.6, 2227.9};
+    cout<<"将函数指针传入了函数"<<endl;
+    cout<<"pf(av,3),*pf(av,3)="<<pf(av,3)<<","<<*pf(av,3)<< endl;
 }

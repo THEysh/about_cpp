@@ -20,7 +20,7 @@ public:
     double getBreadth();
     double getHeight();
     // 重载 + 运算符，用于把两个 Box 对象相加
-    Box operator+(const Box& b);
+    Box operator+(const Box &b);
     Box operator-();
     bool operator <(Box const &b);
     bool operator>(Box const &b);
