@@ -15,12 +15,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/function.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project4/function.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project4/function.h" beforeDir="false" afterPath="$PROJECT_DIR$/project4/function.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project6/funciton.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project6/funciton.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project6/funciton.h" beforeDir="false" afterPath="$PROJECT_DIR$/project6/funciton.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_函数指针/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project_函数指针/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/.idea/project_string.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/String.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/String.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/project_string/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -76,7 +79,7 @@
       <workItem from="1668245890283" duration="104000" />
       <workItem from="1668246002861" duration="344000" />
       <workItem from="1668246361139" duration="10963000" />
-      <workItem from="1668388339209" duration="3278000" />
+      <workItem from="1668388339209" duration="3641000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1668265234820</created>
@@ -113,11 +116,29 @@
       <option name="project" value="LOCAL" />
       <updated>1668355763879</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="更新">
+      <created>1668423441316</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1668423441316</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="更新" />
