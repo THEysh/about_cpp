@@ -1,0 +1,9 @@
+# ninja log v5
+5	261	6901278509502118	CMakeFiles/project_myqueue.dir/main.cpp.obj	f4f1f8d3744bb7f7
+261	324	6901278510122267	project_myqueue.exe	89b8c6cbadc12f4b
+3	53	6901278507431615	CMakeFiles/project_myqueue.dir/queue.cpp.obj	bbc72c0317d2b0f9
+0	69	6901297801961760	build.ninja	b746a82d5c212805
+2	371	6901297805788765	CMakeFiles/project_myqueue.dir/main.cpp.obj	f4f1f8d3744bb7f7
+372	454	6901297806588957	project_myqueue.exe	79154d0f31ce51c1
+2	364	6901297995173258	CMakeFiles/project_myqueue.dir/main.cpp.obj	f4f1f8d3744bb7f7
+364	434	6901297995873434	project_myqueue.exe	79154d0f31ce51c1

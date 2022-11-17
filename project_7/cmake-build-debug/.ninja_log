@@ -1,0 +1,7 @@
+# ninja log v5
+2	457	6901433231889671	CMakeFiles/project_7.dir/main.cpp.obj	150da3f95c74bb0e
+457	540	6901433232705251	project_7.exe	bfce2044c78aeb68
+4	96	6901433228315329	CMakeFiles/project_7.dir/TanMetaObject.cpp.obj	b69e3224bb5baf33
+4	325	6901852616021344	CMakeFiles/project_7.dir/main.cpp.obj	150da3f95c74bb0e
+1	416	6901852616927340	CMakeFiles/project_7.dir/KObject.cpp.obj	9526ba0abc00b2bb
+416	490	6901852617643825	project_7.exe	628b3b1bbb60a407
