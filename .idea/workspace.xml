@@ -15,23 +15,43 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
-      <change afterPath="$PROJECT_DIR$/project_implementing_string/.idea/project_string.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_Implementing_arbitrary_arrays/.idea/stl_Implementing_arbitrary_arrays.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_Implementing_arbitrary_arrays/myArray.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_Implementing_arbitrary_arrays/myArray.hpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_模板/.idea/stl_模板.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_模板/person.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stl_模板/person.hpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/.idea/stl_list.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_list/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/.idea/stl_map.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_map/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_queue/.idea/stl_queue.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/.idea/stl_set_multiset.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_set/stl_set_multiset/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/.idea/stl_stack.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_stack/main.cpp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/.idea/stl_vector.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/stl_vector/main.cpp" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/CMakeLists.txt" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/CMakeLists.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/String.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/String.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/String.h" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/String.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/project_string/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/project_implementing_string/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,16 +79,16 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.cidr.known.project.marker": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "cf.first.check.clang-format": "false",
-    "cidr.known.project.marker": "true",
-    "last_opened_file_path": "F:/code/c_code/about_c++/project_string"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;cf.first.check.clang-format&quot;: &quot;false&quot;,
+    &quot;cidr.known.project.marker&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;F:/code/c_code/about_c++/stl_vector&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="about_c__" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="about_c__" TARGET_NAME="about_c__" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="about_c__" RUN_TARGET_NAME="about_c__">
       <method v="2">
@@ -87,7 +107,9 @@
       <workItem from="1668245890283" duration="104000" />
       <workItem from="1668246002861" duration="344000" />
       <workItem from="1668246361139" duration="10963000" />
-      <workItem from="1668388339209" duration="15076000" />
+      <workItem from="1668388339209" duration="16503000" />
+      <workItem from="1668667864059" duration="24000" />
+      <workItem from="1668668918565" duration="4482000" />
     </task>
     <task id="LOCAL-00001" summary="更新">
       <created>1668265234820</created>
@@ -159,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1668529447093</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="更新">
+      <created>1668616134534</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1668616134534</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
