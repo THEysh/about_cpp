@@ -17,5 +17,6 @@ int main() {
     string str = "abcdefg";
     string subStr = str.substr(1, 4); //返回由pos开始的n个字符组成的字符串
     cout << "subStr = " << subStr << endl;
+    cout<<"hello"<<endl;
     return 0;
 }
