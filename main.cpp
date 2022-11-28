@@ -14,7 +14,7 @@ int main() {
     cout<<s3.replace(0,10,"mytest")<< endl;
     cout<<s3.insert(0,3,'n')<< endl;
 
-    string str = "abcdef";
+    string str = "abcdf";
     string subStr = str.substr(1, 4); //返回由pos开始的n个字符组成的字符串
     cout << "subStr = " << subStr << endl;
     cout<<"hello"<<endl;
