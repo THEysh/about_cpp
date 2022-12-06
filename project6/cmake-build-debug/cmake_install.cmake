@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "F:/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "F:/mingw64_t/bin/llvm-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
