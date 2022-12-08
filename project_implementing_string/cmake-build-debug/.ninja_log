@@ -1,5 +1,5 @@
 # ninja log v5
 261	325	6901259354272975	project_string.exe	a4dc2915ea642dc5
 1	276	6901256801282575	CMakeFiles/project_string.dir/main.cpp.obj	82daf9235a604c05
-0	72	6903168825848061	build.ninja	a78040ed5e2ffb2b
+0	72	6920454288589946	build.ninja	a78040ed5e2ffb2b
 2	261	6901259353654230	CMakeFiles/project_string.dir/String.cpp.obj	c1065e227665d2de

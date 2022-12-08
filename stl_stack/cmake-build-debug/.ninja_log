@@ -1,3 +1,5 @@
 # ninja log v5
 0	279	6903730560869371	CMakeFiles/stl_stack.dir/main.cpp.obj	5919e4b194343246
 280	346	6903730561519345	stl_stack.exe	d155a16d6d10f16f
+1	816	6920449504982661	CMakeFiles/stl_stack.dir/main.cpp.obj	91cb5358146bed50
+819	887	6920449505692904	stl_stack.exe	c581811144373af2

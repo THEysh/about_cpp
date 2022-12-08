@@ -1,4 +1,4 @@
-# Install script for directory: F:/code/c_code/about_c++/project_string
+# Install script for directory: F:/code/c_code/about_c++/project_implementing_string
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
@@ -34,7 +34,7 @@ endif()
 
 # Set default install directory permissions.
 if(NOT DEFINED CMAKE_OBJDUMP)
-  set(CMAKE_OBJDUMP "F:/mingw64/bin/objdump.exe")
+  set(CMAKE_OBJDUMP "F:/mingw64_t/bin/llvm-objdump.exe")
 endif()
 
 if(CMAKE_INSTALL_COMPONENT)
@@ -45,5 +45,5 @@ endif()
 
 string(REPLACE ";" "\n" CMAKE_INSTALL_MANIFEST_CONTENT
        "${CMAKE_INSTALL_MANIFEST_FILES}")
-file(WRITE "F:/code/c_code/about_c++/project_string/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
+file(WRITE "F:/code/c_code/about_c++/project_implementing_string/cmake-build-debug/${CMAKE_INSTALL_MANIFEST}"
      "${CMAKE_INSTALL_MANIFEST_CONTENT}")

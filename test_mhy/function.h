@@ -3,24 +3,27 @@
 //
 
 #ifndef MYPROJECT_MHY_FUNCTION_H
-#define MYPROJECT_MHY_FUNCTION_H
+
 #include <vector>
-#include "algorithm"
 #include "string"
 using namespace std;
 class Role{
+
+public:
     string name;
     int start;
-public:
     Role(string name,int start);
     void show();
 };
 
 class MHY{
-    vector<Role> v; //无参构造
+
 public:
+    vector<Role> v5; //放5星
+    vector<Role> v4; //放4星
     MHY();
-    void add(Role r);
+    void add5(Role r);
+    void add4(Role r);
     void show_v();
 };
 

@@ -14,13 +14,16 @@ void Role::show(){
 }
 
 MHY::MHY() {
-    cout<<"创建成功"<<endl;
+
 }
-void MHY::add(Role r) {
-    this->v.push_back(r);
+void MHY::add5(Role r) {
+    this->v5.push_back(r);
+}
+void MHY::add4(Role r) {
+    this->v4.push_back(r);
 }
 void MHY::show_v() {
-    for(auto s:v){
+    for(auto s:v5){
         s.show();
         cout<<endl;
     }
