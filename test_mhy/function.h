@@ -7,6 +7,7 @@
 #include <vector>
 #include "string"
 using namespace std;
+bool probability(float i);
 class Role{
 
 public:
