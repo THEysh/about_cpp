@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 int main() {
-    std::cout << "sfj" << std::endl;
+    std::cout << "sj" << std::endl;
     std::string abc = "ak=sf";
     std::string s2(abc);
     cout<<&abc<< endl;
