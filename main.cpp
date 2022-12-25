@@ -2,7 +2,7 @@
 using namespace std;
 int main() {
     std::cout << "sf" << std::endl;
-    std::string abc = "lfg";
+    std::string abc = "lfgl";
     std::string s2(abc);
     cout<<&abc<< endl;
     cout<<&s2<<endl;
