@@ -16,6 +16,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,28 +102,7 @@
       <workItem from="1669568607314" duration="11723000" />
       <workItem from="1670210012726" duration="6648000" />
       <workItem from="1670488507884" duration="9528000" />
-      <workItem from="1671427916224" duration="7355000" />
-    </task>
-    <task id="LOCAL-00028" summary="更新">
-      <created>1669488378785</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1669488378785</updated>
-    </task>
-    <task id="LOCAL-00029" summary="更新">
-      <created>1669488398040</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1669488398040</updated>
-    </task>
-    <task id="LOCAL-00030" summary="更新">
-      <created>1669568628348</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1669568628348</updated>
+      <workItem from="1671427916224" duration="9992000" />
     </task>
     <task id="LOCAL-00031" summary="更新">
       <created>1669650487725</created>
@@ -446,7 +426,28 @@
       <option name="project" value="LOCAL" />
       <updated>1671770616110</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="更新">
+      <created>1671970030260</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1671970030260</updated>
+    </task>
+    <task id="LOCAL-00078" summary="更新">
+      <created>1671970068469</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1671970068469</updated>
+    </task>
+    <task id="LOCAL-00079" summary="更新">
+      <created>1671970206316</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1671970206316</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
