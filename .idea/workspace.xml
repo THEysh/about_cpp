@@ -16,7 +16,6 @@
   <component name="ChangeListManager">
     <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test_mhy/cmake-build-debug/Testing/Temporary/LastTest.log" beforeDir="false" afterPath="$PROJECT_DIR$/test_mhy/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -103,14 +102,7 @@
       <workItem from="1670210012726" duration="6648000" />
       <workItem from="1670488507884" duration="9528000" />
       <workItem from="1671427916224" duration="12389000" />
-      <workItem from="1672250181526" duration="1189000" />
-    </task>
-    <task id="LOCAL-00033" summary="更新">
-      <created>1669774871673</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1669774871673</updated>
+      <workItem from="1672250181526" duration="1791000" />
     </task>
     <task id="LOCAL-00034" summary="更新">
       <created>1669866767022</created>
@@ -448,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672199508154</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="更新">
+      <created>1672392131530</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1672392131530</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
