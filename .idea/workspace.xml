@@ -14,9 +14,7 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
-      <change beforePath="$PROJECT_DIR$/main.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/main.cpp" afterDir="false" />
-    </list>
+    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -102,14 +100,7 @@
       <workItem from="1670210012726" duration="6648000" />
       <workItem from="1670488507884" duration="9528000" />
       <workItem from="1671427916224" duration="12389000" />
-      <workItem from="1672250181526" duration="64112000" />
-    </task>
-    <task id="LOCAL-00037" summary="更新">
-      <created>1669999684512</created>
-      <option name="number" value="00037" />
-      <option name="presentableId" value="LOCAL-00037" />
-      <option name="project" value="LOCAL" />
-      <updated>1669999684512</updated>
+      <workItem from="1672250181526" duration="64783000" />
     </task>
     <task id="LOCAL-00038" summary="更新">
       <created>1670088001922</created>
@@ -447,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672764164892</updated>
     </task>
-    <option name="localTasksCounter" value="86" />
+    <task id="LOCAL-00086" summary="更新">
+      <created>1672935262850</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1672935262850</updated>
+    </task>
+    <option name="localTasksCounter" value="87" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
