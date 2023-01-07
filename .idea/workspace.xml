@@ -14,7 +14,9 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新" />
+    <list default="true" id="de72fa11-c34c-4584-826c-513c99a46463" name="Changes" comment="更新">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -100,14 +102,7 @@
       <workItem from="1670210012726" duration="6648000" />
       <workItem from="1670488507884" duration="9528000" />
       <workItem from="1671427916224" duration="12389000" />
-      <workItem from="1672250181526" duration="64783000" />
-    </task>
-    <task id="LOCAL-00038" summary="更新">
-      <created>1670088001922</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1670088001922</updated>
+      <workItem from="1672250181526" duration="65977000" />
     </task>
     <task id="LOCAL-00039" summary="更新">
       <created>1670165946889</created>
@@ -445,7 +440,14 @@
       <option name="project" value="LOCAL" />
       <updated>1672935262850</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="更新">
+      <created>1672999697738</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1672999697738</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
